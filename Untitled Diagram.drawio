@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-07T10:37:33.195Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="i2AyPPow9ZOA1U181Nto" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-07T10:38:57.483Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="ua4TD1sIXp6EwwByfHv4" version="15.4.3" type="github">
   <diagram id="fSdKnkM4jwWLLz93tdnN" name="Page-1">
     <mxGraphModel dx="5184" dy="2658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -237,7 +237,7 @@
             <mxPoint x="3920" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u6CdAD8OhafTvienVMci-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;strokeColor=#4D9900;" edge="1" parent="1" source="u6CdAD8OhafTvienVMci-76" target="u6CdAD8OhafTvienVMci-66">
+        <mxCell id="u6CdAD8OhafTvienVMci-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;strokeColor=#4D9900;" edge="1" parent="1" source="u6CdAD8OhafTvienVMci-76" target="u6CdAD8OhafTvienVMci-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u6CdAD8OhafTvienVMci-76" value="&lt;font style=&quot;font-size: 21px&quot;&gt;Email Lands to&lt;/font&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;Shift.Manager@airtel.com" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
